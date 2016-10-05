@@ -1,0 +1,3 @@
+
+Implemented a multi-threaded, secure network file server 
+with request and response encryption, disk file system structure management
